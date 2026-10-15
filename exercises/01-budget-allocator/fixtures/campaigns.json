@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cmp_lonestar_regional",
+    "name": "Lone Star Freight - Regional Q4",
+    "budgetCents": 1500000,
+    "sources": [
+      { "source": "facebook", "leads30d": 120, "spendCents30d": 450000 },
+      { "source": "google", "leads30d": 80, "spendCents30d": 400000 },
+      { "source": "indeed", "leads30d": 40, "spendCents30d": 200000 }
+    ]
+  },
+  {
+    "id": "cmp_prairie_dedicated",
+    "name": "Prairie Haul - Dedicated",
+    "budgetCents": 900000,
+    "sources": [
+      { "source": "facebook", "leads30d": 60, "spendCents30d": 300000 },
+      { "source": "google", "leads30d": 30, "spendCents30d": 210000 },
+      { "source": "ctv", "leads30d": 0, "spendCents30d": 0 }
+    ]
+  },
+  {
+    "id": "cmp_blueridge_otr",
+    "name": "Blue Ridge Transport - OTR Solo",
+    "budgetCents": 1234567,
+    "sources": [
+      { "source": "facebook", "leads30d": 50, "spendCents30d": 250000 },
+      { "source": "google", "leads30d": 50, "spendCents30d": 250000 }
+    ]
+  },
+  {
+    "id": "cmp_greatlakes_students",
+    "name": "Great Lakes Carriers - Student Drivers",
+    "budgetCents": 600000,
+    "sources": [
+      { "source": "facebook", "leads30d": 30, "spendCents30d": 150000 },
+      { "source": "app", "leads30d": 25, "spendCents30d": 50000 },
+      { "source": "indeed", "leads30d": 10, "spendCents30d": 90000 }
+    ]
+  },
+  {
+    "id": "cmp_desertline_hazmat",
+    "name": "Desert Line Logistics - Hazmat",
+    "budgetCents": 400000,
+    "sources": [
+      { "source": "facebook", "leads30d": 15, "spendCents30d": 150000 },
+      { "source": "google", "leads30d": 0, "spendCents30d": 120000 }
+    ]
+  }
+]
